@@ -9,4 +9,4 @@ It fakes an Authentication saving user data in memory.
 This code was built following a tutorial on Youtube by Patrick God (Link: https://www.youtube.com/watch?v=v7q3pEK1EA0)
 
 # Future goals
-My goal is to build my own API applying the concepts of authentication and authorization seen here.
+My goal is to build my own API applying the concepts of authentication and authorization that have been learned here.
